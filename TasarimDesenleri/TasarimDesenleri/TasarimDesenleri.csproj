@@ -122,5 +122,17 @@
   <ItemGroup>
     <None Include="Resources\pasta-edited-orta.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kare-crop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yuvarlak-crop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yuvarlakkek-crop.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
