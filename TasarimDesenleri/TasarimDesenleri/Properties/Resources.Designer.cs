@@ -73,6 +73,16 @@ namespace TasarimDesenleri.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap Başlıksız {
+            get {
+                object obj = ResourceManager.GetObject("Başlıksız", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap factory {
             get {
                 object obj = ResourceManager.GetObject("factory", resourceCulture);
@@ -86,6 +96,36 @@ namespace TasarimDesenleri.Properties {
         internal static System.Drawing.Bitmap factory2 {
             get {
                 object obj = ResourceManager.GetObject("factory2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap kare_crop {
+            get {
+                object obj = ResourceManager.GetObject("kare-crop", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap pasta_edited {
+            get {
+                object obj = ResourceManager.GetObject("pasta-edited", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap pasta_edited_orta {
+            get {
+                object obj = ResourceManager.GetObject("pasta-edited-orta", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -156,6 +196,26 @@ namespace TasarimDesenleri.Properties {
         internal static System.Drawing.Bitmap xsfactory {
             get {
                 object obj = ResourceManager.GetObject("xsfactory", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap yuvarlak_crop {
+            get {
+                object obj = ResourceManager.GetObject("yuvarlak-crop", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap yuvarlakkek_crop {
+            get {
+                object obj = ResourceManager.GetObject("yuvarlakkek-crop", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

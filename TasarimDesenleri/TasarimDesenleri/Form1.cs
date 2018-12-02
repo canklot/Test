@@ -29,5 +29,12 @@ namespace TasarimDesenleri
 
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            pastane pastaneform = new pastane();
+            pastaneform.Show();
+            this.Hide();
+        }
     }
 }

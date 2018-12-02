@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // pastane
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackgroundImage = global::TasarimDesenleri.Properties.Resources.pasta_edited_orta;
+            this.ClientSize = new System.Drawing.Size(996, 570);
+            this.Name = "pastane";
             this.Text = "pastane";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

@@ -8,3 +8,14 @@ C:\Users\Canavar\source\repos\TasarimDesenleri\TasarimDesenleri\obj\Debug\Tasari
 C:\Users\Canavar\source\repos\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.exe
 C:\Users\Canavar\source\repos\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.pdb
 C:\Users\Canavar\source\repos\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.csprojAssemblyReference.cache
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\bin\Debug\TasarimDesenleri.exe.config
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\bin\Debug\TasarimDesenleri.exe
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\bin\Debug\TasarimDesenleri.pdb
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.csprojAssemblyReference.cache
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.Form1.resources
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.pastane.resources
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.Properties.Resources.resources
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.csproj.GenerateResource.cache
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.exe
+C:\Users\Canavar\Documents\GitHub\Test\TasarimDesenleri\TasarimDesenleri\obj\Debug\TasarimDesenleri.pdb
